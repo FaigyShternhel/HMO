@@ -1,4 +1,4 @@
-@author)  Faigy Shternhel 212218481)
+@author (Faigy Shternhel 212218481)
 @version (23.10.2022)
 This project is a system of health fund members with the option of entering new data and displaying the data from the database. There is the option of editing, searching and deleting a member of the fund.
 I chose to do the client side using REACT
